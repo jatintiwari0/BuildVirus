@@ -7,9 +7,9 @@ This tool will generate a virus that can only destroy Windows computer. You can 
 
 
 # Service
-* To get your custom virus, crypto stealer, bitcoin stealer then dm me on instagram @coding_memz
+* To get your custom virus, crypto stealer, bitcoin stealer then dm me on Discord @jatintiwari0
 * To get your own custom hacking tool, dm me on Discord @jatintiwari0
-* Get the 14M passwords list containing worlds mostly used passwords, dm me on instagram @coding_memz.
+* Get the 14M passwords list containing worlds mostly used passwords, dm me on Discord @jatintiwari0.
 * Get the worlds best hacking course, dm me on Discord @jatintiwari0
 # Usage
 1. git clone https://github.com/jatintiwari0/BuildVirus/
